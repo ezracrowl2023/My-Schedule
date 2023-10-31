@@ -1,3 +1,3 @@
-# My-Schedule
-## Ezra Crowl
-A website containing my School Curriculum/Schedule
+# Ezra Crowl
+## My Schedule Website
+This is a website containing a schedule for my schooling
